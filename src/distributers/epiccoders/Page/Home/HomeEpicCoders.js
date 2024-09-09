@@ -66,8 +66,8 @@ export default function HomeEpicCoders() {
     }
     return (
         <>
-            <Navbar />
             <Container className={'container-1 background'}>
+            <Navbar />
                 <div className="section1 flex-column-center">
                     <h1>Design and engineering studio.</h1>
                     <p className="opacity-white-text">
@@ -160,7 +160,7 @@ export default function HomeEpicCoders() {
             </Container>
             <Container className={'container-5 background'}>
                 <div className="left">
-                    <h2>What our clients are saying</h2>
+                    <h2 className='opacity-white-text'>What our clients are saying</h2>
                     <ContactButton theme={'LIGHT'} />
                 </div>
                 <div className="right">

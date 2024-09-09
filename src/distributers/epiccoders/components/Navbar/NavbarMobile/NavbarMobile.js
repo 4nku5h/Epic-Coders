@@ -10,7 +10,7 @@ export default function NavbarMobile() {
         <div className={`navbar-mobile ${isNavMenuOpen ? 'menu-open' : ''}`}>
             <div className="basic">
                 <div className="center-logo">
-                    <Logo showSubtitle={false} />
+                    <Logo logoHeadingClassName="logo-nav-mobile" showSubtitle={false} />
                 </div>
                 <img
                     src={hamburgerLogo}
@@ -20,7 +20,7 @@ export default function NavbarMobile() {
                 />
             </div>
             {isNavMenuOpen ? (
-                <div className="items">
+                <div className="items opacity-dark-text">
                     <p>Home</p>
                     <p>Services</p>
                     <p>About</p>

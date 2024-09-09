@@ -2,7 +2,6 @@
     font-size: 24px;
     padding-left: 0;
     padding-right: 0;
-    color: var(--themer-heading);
 
     h2 {
         font-size: inherit;
@@ -10,6 +9,7 @@
         margin-bottom: 0;
 
         span {
+            color: inherit;
             letter-spacing: normal;
         }
     }
