@@ -335,13 +335,13 @@ export default function HomeEpicCoders() {
                     <div className="footer-row2">
                         <div className="left">
                             <p>
-                                <a href="mailto:pixobrew@gmail.com?subject=Request for Editing Services&body=Hi,">
+                                <a className="opacity-white-text" href="mailto:pixobrew@gmail.com?subject=Request for Editing Services&body=Hi,">
                                     pixobrew@gmail.com
                                 </a>
                             </p>
                             <p>
                                 {' '}
-                                <a href="tel:+919457776161">+91 9457776161</a>
+                                <a className="opacity-white-text" href="tel:+919457776161">+91 9457776161</a>
                             </p>
                         </div>
                         <div className="right">

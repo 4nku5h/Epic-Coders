@@ -4,6 +4,10 @@
     --section-margin: 50px;
 }
 
+h2 {
+    color: #363737;
+}
+
 * {
     font-family: "Google Sans", Roboto, Arial, sans-serif !important;
 }
@@ -33,11 +37,11 @@ p {
 }
 
 .opacity-white-text {
-    color: rgba(255, 255, 255, .7);
+    color: #fff;
 }
 
 .opacity-dark-text {
-    color: rgba(23, 51, 48, .7);
+    color: #656c76;
 }
 
 .medium-text {
