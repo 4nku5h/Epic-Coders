@@ -8,7 +8,9 @@ export default function Navbar() {
     function Items({callBack}){
         function onItemClickHandler(e){
             const event = e.target.id
-            callBack()
+            if(callBack){
+                callBack()
+            }
             switch(event){
                 case "nav-item-home":{
                     scrollToId('container-1');
