@@ -4,8 +4,9 @@ import hamburgerLogo from '../../../../../assets/core/hamburger.svg';
 
 import './styles.scss';
 
-export default function NavbarMobile() {
+export default function NavbarMobile({Items}) {
     const [isNavMenuOpen, setIsNavMenuOpen] = useState(false);
+
     return (
         <div className={`navbar-mobile ${isNavMenuOpen ? 'menu-open' : ''}`}>
             <div className="basic">
@@ -21,11 +22,9 @@ export default function NavbarMobile() {
             </div>
             {isNavMenuOpen ? (
                 <div className="items opacity-dark-text">
-                    <p>Home</p>
-                    <p>Services</p>
-                    <p>About</p>
-                    <span />
-                    <p>Contact us</p>
+                   <Items callBack={()=>{
+                     setIsNavMenuOpen(false)
+                   }}/>
                 </div>
             ) : (
                 false

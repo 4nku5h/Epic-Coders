@@ -66,19 +66,19 @@ export default function HomeEpicCoders() {
     }
     return (
         <>
-            <Container className={'container-1 background'}>
+            <Container uid="container-1" className={'container-1 background'}>
             <Navbar />
                 <div className="section1 flex-column-center">
                     <h1>Design and engineering studio.</h1>
                     <p className="opacity-white-text">
-                        We create stunning, custom Webflow websites that combine beautiful design
+                        We create stunning, custom websites that combine beautiful design
                         with seamless functionality.
                     </p>
                     <ContactButton theme={'LIGHT'} />
                     <Rating theme={'LIGHT'} />
                 </div>
             </Container>
-            <Container className="container-2">
+            <Container uid="container-2" className="container-2">
                 <h2>Our services</h2>
                 <p className="opacity-dark-text">
                     We offer a range of services, including web and mobile app development, UI/UX
@@ -303,7 +303,7 @@ export default function HomeEpicCoders() {
                     </div>
                 </div>
             </Container>
-            <Container className="container-8" contentHorizontalAlign="left">
+            <Container uid="container-8" className="container-8" contentHorizontalAlign="left">
                 <h2>Ready to scale your project to the next level?</h2>
                 <p className="opacity-dark-text">
                     Let's take your project to new heights, reach out and see how we can help you.
@@ -312,7 +312,7 @@ export default function HomeEpicCoders() {
                 <ContactButton theme={'DARK'} />
                 <Rating theme={'DARK'} />
             </Container>
-            <Container className="container-9" contentHorizontalAlign="left">
+            <Container uid="container-9" className="container-9" contentHorizontalAlign="left">
                 <div className={'footer background'}>
                     <div className="footer-row1">
                         <Logo showSubtitle={false} />
@@ -335,8 +335,8 @@ export default function HomeEpicCoders() {
                     <div className="footer-row2">
                         <div className="left">
                             <p>
-                                <a className="opacity-white-text" href="mailto:pixobrew@gmail.com?subject=Request for Editing Services&body=Hi,">
-                                    pixobrew@gmail.com
+                                <a className="opacity-white-text" href="mailto:epic.coders.in@gmail.com?subject=Request for Software Development&body=Hi Epic Coders,">
+                                    epic.coders.in@gmail.com
                                 </a>
                             </p>
                             <p>
