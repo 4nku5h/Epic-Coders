@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Epic-Coders/static/css/main.a67e5f7b.css",
+    "main.js": "/Epic-Coders/static/js/main.93f15d34.js",
+    "static/js/787.c71bb912.chunk.js": "/Epic-Coders/static/js/787.c71bb912.chunk.js",
+    "static/media/Migra-Extralight.ttf": "/Epic-Coders/static/media/Migra-Extralight.dbd60d54988bdfdee09f.ttf",
+    "static/media/1.png": "/Epic-Coders/static/media/1.682575d9a7e478e19cd0.png",
+    "static/media/3.png": "/Epic-Coders/static/media/3.5837a3126cdb2fe473aa.png",
+    "static/media/4.png": "/Epic-Coders/static/media/4.024babaee8f3b0d545d6.png",
+    "static/media/5.png": "/Epic-Coders/static/media/5.b21867547f0a42f6dfb3.png",
+    "static/media/secure.png": "/Epic-Coders/static/media/secure.d7329877a992aba168c6.png",
+    "static/media/2.png": "/Epic-Coders/static/media/2.abb61e06956f1daabd5a.png",
+    "static/media/whatsapp.png": "/Epic-Coders/static/media/whatsapp.8f84e8ce77ed527f4465.png",
+    "static/media/instagram.png": "/Epic-Coders/static/media/instagram.bc603acad2a8cb3bd098.png",
+    "static/media/postgress.png": "/Epic-Coders/static/media/postgress.372e11590395c48cd017.png",
+    "static/media/ux.png": "/Epic-Coders/static/media/ux.194932d238d23dc8da7e.png",
+    "static/media/seo.png": "/Epic-Coders/static/media/seo.906e6629eba97d8bb9b5.png",
+    "static/media/agile.png": "/Epic-Coders/static/media/agile.53ea293416ea49a400d8.png",
+    "static/media/node.webp": "/Epic-Coders/static/media/node.8b7f32f8309d72640942.webp",
+    "static/media/flutter.webp": "/Epic-Coders/static/media/flutter.48885ec58ec5873b7e3d.webp",
+    "static/media/next.webp": "/Epic-Coders/static/media/next.266cf7ac2201dcd68ece.webp",
+    "index.html": "/Epic-Coders/index.html",
+    "static/media/spring.svg": "/Epic-Coders/static/media/spring.06648761f888d95c060a68377ffd04e8.svg",
+    "static/media/arrowright.svg": "/Epic-Coders/static/media/arrowright.9b128a262317b42706b502a23cb74f8c.svg",
+    "static/media/arrowleft.svg": "/Epic-Coders/static/media/arrowleft.c8f25590066f21415349e5fda8b34f7f.svg",
+    "static/media/hamburger.svg": "/Epic-Coders/static/media/hamburger.c9210dbc9cb2a7d2085099d817766ff8.svg",
+    "main.a67e5f7b.css.map": "/Epic-Coders/static/css/main.a67e5f7b.css.map",
+    "main.93f15d34.js.map": "/Epic-Coders/static/js/main.93f15d34.js.map",
+    "787.c71bb912.chunk.js.map": "/Epic-Coders/static/js/787.c71bb912.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67e5f7b.css",
+    "static/js/main.93f15d34.js"
+  ]
+}
