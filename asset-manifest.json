@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Epic-Coders/static/css/main.a67e5f7b.css",
-    "main.js": "/Epic-Coders/static/js/main.93f15d34.js",
+    "main.css": "/Epic-Coders/static/css/main.a56689d6.css",
+    "main.js": "/Epic-Coders/static/js/main.cba09407.js",
     "static/js/787.c71bb912.chunk.js": "/Epic-Coders/static/js/787.c71bb912.chunk.js",
     "static/media/Migra-Extralight.ttf": "/Epic-Coders/static/media/Migra-Extralight.dbd60d54988bdfdee09f.ttf",
     "static/media/1.png": "/Epic-Coders/static/media/1.682575d9a7e478e19cd0.png",
@@ -24,12 +24,12 @@
     "static/media/arrowright.svg": "/Epic-Coders/static/media/arrowright.9b128a262317b42706b502a23cb74f8c.svg",
     "static/media/arrowleft.svg": "/Epic-Coders/static/media/arrowleft.c8f25590066f21415349e5fda8b34f7f.svg",
     "static/media/hamburger.svg": "/Epic-Coders/static/media/hamburger.c9210dbc9cb2a7d2085099d817766ff8.svg",
-    "main.a67e5f7b.css.map": "/Epic-Coders/static/css/main.a67e5f7b.css.map",
-    "main.93f15d34.js.map": "/Epic-Coders/static/js/main.93f15d34.js.map",
+    "main.a56689d6.css.map": "/Epic-Coders/static/css/main.a56689d6.css.map",
+    "main.cba09407.js.map": "/Epic-Coders/static/js/main.cba09407.js.map",
     "787.c71bb912.chunk.js.map": "/Epic-Coders/static/js/787.c71bb912.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a67e5f7b.css",
-    "static/js/main.93f15d34.js"
+    "static/css/main.a56689d6.css",
+    "static/js/main.cba09407.js"
   ]
 }
